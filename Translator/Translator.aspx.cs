@@ -18,7 +18,7 @@ namespace Translator
         private string[] G = { "C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B" };
         protected void Page_Load(object sender, EventArgs e)
         {
-
+             
         }
     }
 }
